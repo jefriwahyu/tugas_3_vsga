@@ -1,6 +1,6 @@
 # Tugas 3 VSGA
 
-<b><i>Menggunakan Tipe Data dan Kontrol Program</i></b>.
+<b><i>Menggunakan Tipe Data dan Kontrol Program</i></b> - Membuat perulangan dan menghasilkan output sesuai angka bilangan genap dan bilangan ganjil.
 
 <h3><i>Output </i>:</h3>
 
